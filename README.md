@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yara Ellkany</h1>
 <h3 align="center">Artificial Intelligence Student from Egypt</h3>
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+</p>
+
+
+
 - 🌱 I’m currently learning **Computer Vision , Machine Learning , Natural Language Processing**
 
 - 💬 Ask me about **Artificial Intelligence**
