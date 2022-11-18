@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Computer Vision , Machine Learning , Natural Language Processing**
+- 🌱 I’m currently learning **Computer Vision ,IOT , Machine Learning , Natural Language Processing**
 
 - 💬 Ask me about **Artificial Intelligence**
 
